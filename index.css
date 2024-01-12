@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  background-image: url("bg.webp");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  color: #00ff00;
+}
+.he {
+  width: 100px;
+  height: 30px;
+}
+img {
+  width: 20%;
+  height: 2%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #ffe5ec;
+}
+.marg {
+  margin: 0%;
+}
